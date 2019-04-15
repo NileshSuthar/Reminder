@@ -6,6 +6,14 @@ GUI Tool used - Qt Designer
 
 Python Binding - PyQ5
 
-The main file is remind.py
+**The main file is remind.py**
 
-Database window is created by using table.py and database is test.db
+Database window is created by using table.py and database is test.db 
+
+Libraries used - winsound, _thread, time, datetime, win10toast,  pyttsx3
+
+## Usage:
+
+Run the file remind.py then you have set your reminder time, date and description. Now by clicking save, these fields will be saved in our database. By clicking 'Show Database', you can have a look at current database.
+
+After clicking save, keep the application open and you will receive a **Beep Sound** followed by your **Reminder Text Announcement**. Now you will get a **Notification** for your reminder as well.
