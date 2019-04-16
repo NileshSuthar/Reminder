@@ -22,8 +22,8 @@ These are the images of this application.
 
 Reminder Application:
 
-https://raw.githubusercontent.com/NileshSuthar/Reminder/blob/master/Reminder.PNG
+https://github.com/NileshSuthar/Reminder/blob/master/Reminder.PNG
 
 Database:
 
-https://raw.githubusercontent.com/NileshSuthar/Reminder/blob/master/Database.PNG
+https://github.com/NileshSuthar/Reminder/blob/master/Database.PNG
