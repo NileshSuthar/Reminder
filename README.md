@@ -16,7 +16,7 @@ Libraries used - winsound, _thread, time, datetime, win10toast,  pyttsx3
 
 Run the file remind.py then you have set your reminder time, date and description. Now by clicking save, these fields will be saved in our database. By clicking 'Show Database', you can have a look at current database.
 
-After clicking save, keep the application open and you will receive a **Beep Sound** followed by your **Reminder Text Announcement**. Now you will get a **Notification** for your reminder as well.
+After clicking save, keep the application open and you will receive a **Beep Sound** followed by your **Reminder Text Announcement**. Then you will get a **Notification** for your reminder as well.
 
 These are the images of this application.
 
